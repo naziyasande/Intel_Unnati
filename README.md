@@ -33,4 +33,4 @@ Optimum Intel allows loading optimized models from the Hugging Face Hub and crea
 # 7. Openvino Chatbot Full Code
 Complete Code in .py format
 
-  OpenvinoChatbotFullCode.py
+  OpenvinoChatbotCode.py
